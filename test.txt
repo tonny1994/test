@@ -1,1 +1,1 @@
-https://github.com/tonny1994/test/new/main
+https://raw.githubusercontent.com/tonny1994/test/refs/heads/main/test.txt
